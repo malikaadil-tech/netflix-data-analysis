@@ -110,7 +110,7 @@ pip install pandas numpy matplotlib seaborn
 
 ---
 
-## 👨‍💻 Acknowledgement
+## 👨‍💻 Acknowledgements
 
 Special thanks to the internship program for providing this project and the netflix dataset for enabling practical data analysis and visualization.
 
