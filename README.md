@@ -110,12 +110,9 @@ pip install pandas numpy matplotlib seaborn
 
 ---
 
-## 👨‍💻 Author
+## 👨‍💻 Acknowledgement
 
-**Aadil**
-
-B.Tech Electrical Engineering
-Jamia Millia Islamia, New Delhi
+Special thanks to the internship program for providing this project and the netflix dataset for enabling practical data analysis and visualization.
 
 ---
 
